@@ -1,0 +1,3 @@
+The easisest implementation I can see right now is with a staging
+directory. The new issues and comments in this directory get sent
+to the remote and moved to the appropriate location afterwards.

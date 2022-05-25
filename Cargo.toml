@@ -1,0 +1,11 @@
+[package]
+name = "praia"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "3.1.18", features = [ "derive" ] }
+quick_from = "0.2.0"
+chrono = "0.4.19"
+serde = { version = "1.0", features = [ "derive" ] }
+toml = "0.5.9"
